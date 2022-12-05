@@ -1,0 +1,9 @@
+    .bg {
+        background-image: linear-gradient(to right, #381f47, #34244f, #2f2957, #262f5f, #183466);
+        }
+    .lgimg{
+        height: 75vh;
+    }
+    .bgsubmit{
+        background-color: #BB86FC;
+    }
