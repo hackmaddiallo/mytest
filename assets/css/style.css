@@ -7,3 +7,25 @@
     .bgsubmit{
         background-color: #BB86FC;
     }
+    
+
+    @media only screen and (min-width: 750px) {
+        .message{
+
+            position:relative;
+            bottom: 65px;
+            left: 80px;
+    
+        }
+    
+      }
+    @media only screen and (max-width: 750px) {
+        .message{
+
+            position:relative;
+            /* bottom: 65px;
+            left: 80px; */
+    
+        }
+    
+      }
